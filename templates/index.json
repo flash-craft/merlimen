@@ -1,8 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "ml_hero": {
       "type": "mer-limen-hero",
       "settings": {
+        "image_alt": "",
         "eyebrow": "THE HOURS BETWEEN",
         "heading": "THERE IS MORE\nTO SLEEP.",
         "body": "Objects for the hours when the world grows quiet—and the inner world begins.",
@@ -23,10 +33,13 @@
         "eyebrow": "A DIFFERENT KIND OF THRESHOLD",
         "heading": "Night is not an absence.\nIt is another kind of passage.",
         "body": "<p>We spend our waking hours looking outward. Sleep turns attention elsewhere—to rituals, sensations, and the still-unfamiliar experience of dreaming.</p><p>MƎR LIMEN is built around that boundary: thoughtful objects for the time we spend there.</p>",
+        "image_alt": "",
         "layout": "statement",
         "background_treatment": "void",
         "alignment": "center",
         "section_space": 120,
+        "link_label": "",
+        "link_url": "",
         "show_border": true
       }
     },
@@ -36,11 +49,13 @@
         "eyebrow": "OBSERVE THE NIGHT / 01",
         "heading": "A map of the night.",
         "body": "<p>Sleep is not a single, unchanging state. The REM cycle offers one lens through which to observe its changing patterns—an invitation to look a little closer.</p>",
+        "image_alt": "",
         "show_image": true,
         "media_width": 50,
         "image_alignment": "right",
         "background_treatment": "midnight",
         "show_image_caption": false,
+        "image_caption": "",
         "section_space": 100
       }
     },
@@ -50,7 +65,9 @@
         "eyebrow": "CONSIDERED ESSENTIALS",
         "heading": "Made for the hours between.",
         "description": "A focused collection of objects for the rituals around sleep.",
+        "source": "collection",
         "collection": "all",
+        "products": [],
         "products_to_show": 4,
         "columns_desktop": "4",
         "image_ratio": "adapt",
@@ -58,10 +75,10 @@
         "show_product_status": true,
         "show_view_all": true,
         "view_all_label": "View all objects",
+        "view_all_url": "",
         "text_alignment": "left",
         "background_treatment": "void",
-        "section_space": 100,
-        "source": "collection"
+        "section_space": 100
       }
     },
     "ml_featured": {
@@ -69,7 +86,7 @@
       "settings": {
         "eyebrow": "IN FOCUS",
         "heading": "One object. One ritual.",
-        "product": "",
+        "product": "3d-blackout-weighted-eye-mask-for-sleep-airplane-travel-essential-long-flights-road-trips-gentle-weighted-comfort-deep-cups-lash-friendly",
         "show_description": true,
         "layout": "split",
         "image_position": "left",
@@ -83,10 +100,13 @@
         "eyebrow": "THE MƎR LIMEN POINT OF VIEW",
         "heading": "The unseen deserves attention.",
         "body": "<p>We are drawn to the spaces that are easy to overlook: the quiet before sleep, the texture of a room at night, the details that make a routine feel intentional.</p><p>No promises of transformation. Just considered essentials, and room to stay curious.</p>",
+        "image_alt": "",
         "layout": "split-right",
         "background_treatment": "midnight",
         "alignment": "left",
         "section_space": 120,
+        "link_label": "",
+        "link_url": "",
         "show_border": false
       }
     },
@@ -96,12 +116,13 @@
         "eyebrow": "STEP ACROSS",
         "heading": "Begin at the threshold.",
         "body": "<p>Explore objects made for your own hours between waking and sleep.</p>",
-        "link_label": "Shop the collection",
-        "link_url": "/collections/all",
+        "image_alt": "",
         "layout": "invitation",
         "background_treatment": "void",
         "alignment": "center",
         "section_space": 120,
+        "link_label": "Shop the collection",
+        "link_url": "/collections/all",
         "show_border": false
       }
     }
