@@ -49,6 +49,7 @@
         "eyebrow": "OBSERVE THE NIGHT / 01",
         "heading": "A map of the night.",
         "body": "<p>Sleep is not a single, unchanging state. The REM cycle offers one lens through which to observe its changing patterns—an invitation to look a little closer.</p>",
+        "image": "shopify://shop_images/MERLIMEN_rem_cycle.svg",
         "image_alt": "",
         "show_image": true,
         "media_width": 50,
